@@ -42,8 +42,17 @@
 | 📈 Stock Chatbot         | GPT-powered Stock Analysis             | OpenAI, Flask           |
 | ⛓ Blockchain Marketplace | Decentralized Data Marketplace         | Solidity                |
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshit1606&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit1606&layout=compact&theme=tokyonight">
-<img src="https://streak-stats.demolab.com/?user=harshit1606&theme=tokyonight">
-<img src="https://komarev.com/ghpvc/?username=harshit1606&style=for-the-badge">
-<img src="https://github-profile-trophy.vercel.app/?username=harshit1606&theme=algolia">
+## 📫 Connect with me
+
+- LinkedIn
+- Portfolio
+- Email
+- GitHub
+
+harshit1606/
+│
+├── README.md
+│
+└── .github/
+     └── workflows/
+          └── snake.yml
