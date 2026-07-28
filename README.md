@@ -49,16 +49,4 @@
 - Email
 - GitHub
 
-harshit1606/
 
-│
-
-├── README.md
-
-│
-
-└── .github/
-
-     └── workflows/
-     
-          └── snake.yml
