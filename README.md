@@ -42,8 +42,8 @@
 | 📈 Stock Chatbot         | GPT-powered Stock Analysis             | OpenAI, Flask           |
 | ⛓ Blockchain Marketplace | Decentralized Data Marketplace         | Solidity                |
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight">
-<img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge">
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia">
+<img src="https://github-readme-stats.vercel.app/api?username=Yharshit1606&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit1606&layout=compact&theme=tokyonight">
+<img src="https://streak-stats.demolab.com/?user=harshit1606&theme=tokyonight">
+<img src="https://komarev.com/ghpvc/?username=harshit1606&style=for-the-badge">
+<img src="https://github-profile-trophy.vercel.app/?username=harshit1606&theme=algolia">
