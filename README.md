@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Harshit+Dwivedi;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor+;AWS+Cloud+Practitioner)](https://git.io/typing-svg)
 <!--
 **harshit1606/harshit1606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
